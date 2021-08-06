@@ -45,7 +45,7 @@ I am looking for a job as junior .Net Developer.
 
 ## Contact Details
 
-- [Github profile](https://github.com/Jay-study-nildana)
+- [Github profile](https://github.com/DaveBosmans)
 - [Linkedin In Profile](https://www.linkedin.com/in/%E2%9C%94%EF%B8%8F-dave-bosmans-0787141b0/)
 - Email: Dave.b11@hotmail.com
 
