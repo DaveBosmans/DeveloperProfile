@@ -1,8 +1,11 @@
 ## Welcome to my Developer Profile
 
 I'm Dave a software engineer based in the Netherlands. My drive is a passion for helping businesses grow through effective software solutions. With 3+ years of experience in developing software solutions, i have experience creating effective applications that drive business growth.
-By collaborating closely with cross-functional teams and staying up-to-date with the latest technologies, i create tailored software solutions that meet the unique needs of each business. From developing custom solutions to building robust systems.
-At the core my work is a dedication to delivering high-quality software solutions that make a real impact. No-nonsens software but software which helps business being able to work more efficient, organized and help reduce the costs to take the business to a new level.
+
+By collaborating closely with cross-functional teams and staying up-to-date with the latest technologies, 
+i create tailored software solutions that meet the unique needs of each business. From developing custom solutions to building robust systems.
+At the core my work is a dedication to delivering high-quality software solutions that make a real impact. 
+No-nonsens software but software which helps business being able to work more efficient, grow, organized and help reduce the costs to take the business to a new level.
 
 Get in touch with me via email : Dave.b11@hotmail.com.
 
